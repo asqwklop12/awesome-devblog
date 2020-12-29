@@ -1,4 +1,8 @@
 ---
+- name: 박용훈
+  blog: https://b-programmer.tistory.com
+  description: 프로그래밍, 프로그래밍은 아름다워
+  github: https://github.com/asqwklop12
 - name: 강교일
   blog: https://kdevkr.github.io/
   description: 초보 개발 이야기
